@@ -20,7 +20,7 @@
   some text
 
   ## Contribution
-  me
+  some text
   
   ## Tests
   some text
