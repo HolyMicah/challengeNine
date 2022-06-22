@@ -36,6 +36,12 @@ const questions = ([
             name: 'testing',
         },
         {
+            type: "checkbox",
+            message: "What License did you use for this repository?",
+            choices: ["MIT", "GNU General Public License 2.0", "Apache License 2.0", "GNU General Public License 3.0"],
+            name: "license",
+        },
+        {
             type: 'input',
             message: 'What is your github username?',
             name: 'username',
